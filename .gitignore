@@ -1,2 +1,4 @@
 .history
 input
+unsafe
+**.code.py
